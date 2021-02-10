@@ -1,3 +1,3 @@
-# Machine-Learning-Projects
+# ML-DL-NLP-Projects
 
-Implementation of various Supervised and Unsupervised ML Projects
+Implementation of various ML-DL-NLP Projects.
