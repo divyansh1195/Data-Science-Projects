@@ -1,28 +1,12 @@
 # Machine Learning Projects
 
 Implementation of Supervised and Unsupervised ML Projects 
-# Python-Programs
-[![GitHub stars](https://img.shields.io/github/stars/OmkarPathak/Python-Programs.svg)](https://github.com/OmkarPathak/Python-Programs/stargazers)
-![Python](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
 
-This is my collection of Python Programs.<br />
-For python tutorials, visit my website:<br />
-http://www.omkarpathak.in
+## Data Engineering
 
-Omkar Pathak,<br />
-Pune, Maharashtra, India.<br />
-
-## Sorting Algorithms
-
-1. [Selection Sort](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P24_SelectionSort.py)
-2. [Bubble Sort](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P25_BubbleSort.py)
-3. [Insertion Sort](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P26_InsertionSort.py)
-4. [Merge Sort](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P27_MergeSort.py)
-5. [Quick Sort](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P28_QuickSort.py)
-6. [Counting Sort](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P48_CountingSort.py)
-7. [Bucket Sort](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P52_BucketSort.py)
-8. [Shell Sort](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P53_ShellSort.py)
-9. [Heap Sort](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P66_HeapSort.py)
+1. [Data Cleaning](https://github.com/divyansh1195/Machine-Learning Projects/blob/main/Data%20Engineering/Data%20Cleaning)
+2. [Data Visualization](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Data%20Engineering/Data%20Visulaization)
+3. [Numpy](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Data%20Engineering/Numpy)
 
 ## Searching Algorithms
 
