@@ -1,6 +1,7 @@
 # Machine Learning Projects
 
-![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![Scikit-Learn](https://img.shields.io/badge/Library-ScikitLearn-orange.svg)
+![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![Scikit-Learn](https://img.shields.io/badge/Library-ScikitLearn-orange.svg) ![Supervised-Learning-Regression](https://img.shields.io/badge/Problems-Supervised-Learning-Regression-blue.svg) ![Supervised Learning Classification](https://img.shields.io/badge/Supervised Learning Classification-cyan.svg) ![Unsupervised Machine Learning](https://img.shields.io/badge/Unsupervised Machine Learning-red.svg)
+
 This repository consists of files required for the implementation of Machine Learning Projects 
 
 ## Data Engineering
