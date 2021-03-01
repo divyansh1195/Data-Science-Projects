@@ -17,3 +17,12 @@ This repository consists of implementation of various Machine Learning Projects
 5. [Titanic Survival Classification](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Classification/Titanic%20Survival%20Classification%20Project)
 6. [XGB Classification to predict whether a person makes over 50K per year or not](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Classification/XGB%20Classification%20Project)
 
+## Supervised Learning Regression
+
+1. [Car Price Prediction](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Regression/Car-Price-Prediction)
+2. [Decision Tree Titanic Survival Classification](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Classification/Decision%20Tree%20Titanic%20Survival%20Classification)
+3. [Logistic Regression Affair or Not Affair Classification](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Classification/Logistic%20Regression%20Project)
+4. [PIMA Diabetes Classification](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Classification/PIMA-Diabetes-Classification)
+5. [Titanic Survival Classification](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Classification/Titanic%20Survival%20Classification%20Project)
+6. [XGB Classification to predict whether a person makes over 50K per year or not](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Classification/XGB%20Classification%20Project)
+
