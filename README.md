@@ -4,7 +4,7 @@ Implementation of Supervised and Unsupervised ML Projects
 
 ## Data Engineering
 
-1. [Data Cleaning](https://github.com/divyansh1195/Machine-Learning Projects/blob/main/Data%20Engineering/Data%20Cleaning)
+1. [Data Cleaning](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Data%20Engineering/Data%20Cleaning)
 2. [Data Visualization](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Data%20Engineering/Data%20Visulaization)
 3. [Numpy](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Data%20Engineering/Numpy)
 
