@@ -26,3 +26,10 @@ This repository consists of implementation of various Machine Learning Projects
 5. [Titanic Survival Classification](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Classification/Titanic%20Survival%20Classification%20Project)
 6. [XGB Classification to predict whether a person makes over 50K per year or not](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Classification/XGB%20Classification%20Project)
 
+## UnSupervised Learning
+
+1. [Unsupervised Stock Dataset K-Means Clustering with Silhouette Validation](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Unsupervised%20Learning%20Clustering/Clustering%20Project)
+2. [K-Means Clustering Image Compression (Racoon's RGB image to Greyscale)](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Unsupervised%20Learning%20Clustering/K-Means%20Clustering)
+
+
+
