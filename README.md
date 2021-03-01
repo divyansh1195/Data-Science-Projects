@@ -24,7 +24,7 @@ This repository consists of implementation of various Machine Learning Projects
 3. [Flight Fare Prediction](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Regression/Flight-Fare-Prediction)
 4. [Housing Price Prediction](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Regression/Housing%20Price%20Prediction)
 5. [Linear Regression Housing Price Prediction](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Regression/Linear%20Regression%20Project)
-6. [NBA Season Scores Prediction with KNN](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Regression/NBA%20Season%20Scores%20Prediction%20(KNN%20Regressor)
+6. [NBA Season Scores Prediction with KNN](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Regression/NBA%20Season%20Scores%20Prediction%20(KNN%20Regressor))
 7. [Random Forest Regression Housing Price Prediction](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Regression/Random%20Forest%20Regression%20Project)
 
 ## UnSupervised Learning
