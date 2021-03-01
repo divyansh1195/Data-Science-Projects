@@ -10,7 +10,7 @@ Implementation of Supervised and Unsupervised ML Projects
 
 ## Supervised Learning Classification
 
-1. [Bank Notes Authentication](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Classification/Bank-Note%20Authenticaton)
+1. [Bank Notes Authentication - Fake/Real Notes Classification](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Classification/Bank-Note%20Authenticaton)
 2. [Decision Tree Titanic Survival Classification](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Classification/Decision%20Tree%20Titanic%20Survival%20Classification)
 3. [Logistic Regression Affair or Not Affair Classification](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Classification/Logistic%20Regression%20Project)
 4. [PIMA Diabetes Classification](https://github.com/divyansh1195/Machine-Learning-Projects/tree/main/Supervised%20Learning%20Classification/PIMA-Diabetes-Classification)
